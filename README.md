@@ -93,8 +93,3 @@ It provides **business-critical insights** on bookings, revenue, visa statuses, 
 - Trip Completion vs Cancellation
 - Staff-wise Performance Table
 - Common Issues Reported
-
----
-
-## 📂 Dataset Structure
-The dataset contains the following fields:
